@@ -55,6 +55,20 @@
       ]
     },
     {
+      "id": "testing-debugging",
+      "title": "Automated Testing and Debugging in Python",
+      "description": "Write unit tests and debug Python functions to build more reliable code.",
+      "path": "assignments/testing-debugging",
+      "dueDate": "2026-07-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
